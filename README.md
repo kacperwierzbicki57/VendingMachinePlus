@@ -75,7 +75,7 @@ Key capabilities include:
 
 1. Clone the repository  
    
-   - git clone [https://github.com/your-username/atm-vending-machine.git](https://github.com/kacperwierzbicki57/VendingMachinePlus.git)
+   - git clone https://github.com/kacperwierzbicki57/VendingMachinePlus.git
 
 2. Launch the application and select an operation mode
 
